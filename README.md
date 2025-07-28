@@ -1,1 +1,1 @@
-Tu bedzie opis tego co zrobilem w tym projekcie jak go zrobie# odin-recipes
+Simple page with 3 of my favourite recipes for training.
