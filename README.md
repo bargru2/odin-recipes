@@ -1,1 +1,1 @@
-# odin-recipes
+Tu bedzie opis tego co zrobilem w tym projekcie jak go zrobie# odin-recipes
